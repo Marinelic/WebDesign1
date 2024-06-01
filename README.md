@@ -1,2 +1,2 @@
 # WebDesign1
- Web page with HTML and CSS
+ Web page with HTML, CSS and JS
